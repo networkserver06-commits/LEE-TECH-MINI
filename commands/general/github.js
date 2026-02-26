@@ -28,7 +28,7 @@ module.exports = {
                 // Fetch repository data from GitHub API
                 const response = await axios.get(apiUrl, {
                     headers: {
-                        'User-Agent': 'KnightBot-Mini'
+                        'User-Agent': 'LEE-TECH-MINI'
                     }
                 });
                 
