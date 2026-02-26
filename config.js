@@ -4,19 +4,19 @@
 
 module.exports = {
     // Bot Owner Configuration
-    ownerNumber: ['91xxxxxxxxxxx','917023951514'], // Add your number without + or spaces (e.g., 919876543210)
-    ownerName: ['Knight Bot Mini', 'Professor'], // Owner names corresponding to ownerNumber array
+    ownerNumber: ['254xxxxxxxxxx','254116553618'], // Add your number without + or spaces (e.g., 919876543210)
+    ownerName: ['Lee Tech Bot Mini', 'LEE TECH'], // Owner names corresponding to ownerNumber array
     
     // Bot Configuration
     botName: 'Knight Bot Mini',
     prefix: '.',
     sessionName: 'session',
     sessionID: process.env.SESSION_ID || '',
-    newsletterJid: '120363161513685998@newsletter', // Newsletter JID for menu forwarding
-    updateZipUrl: 'https://github.com/mruniquehacker/KnightBot-Mini/archive/refs/heads/main.zip', // URL to latest code zip for .update command
+    newsletterJid: '120363404186001130@newsletter', // Newsletter JID for menu forwarding
+    updateZipUrl: 'https://github.com/networkserver06-commits/LEE-TECH-MINI/archive/refs/heads/main.zip', // URL to latest code zip for .update command
     
     // Sticker Configuration
-    packname: 'Knight Bot Mini',
+    packname: 'LEE TECH Bot Mini',
     
     // Bot Behavior
     selfMode: false, // Private mode - only owner can use commands
